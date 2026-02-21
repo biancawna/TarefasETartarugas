@@ -2,8 +2,6 @@
 header('Content-Type: application/json; charset=UTF-8');
 include 'conectbd.php';
 //variavels (dependendo do que vc fará)
-$email = "mabelwna@gmail.com";
-$senha = "1234";
 
 
 //pegando os valores e verificando
